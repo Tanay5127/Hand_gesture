@@ -41,9 +41,9 @@ This project focuses on recognizing hand gestures using a webcam and performing 
 This project provides a basic framework for gesture recognition and can be extended with more complex gesture detection and actions. It demonstrates the use of computer vision techniques for real-time hand gesture recognition and interaction with the system.
 
 ## Requirements
-- Python 3.x
+- Python 3. x
 - OpenCV
-- numpy
+- NumPy
 - pyautogui
 - matplotlib (optional, for visualization)
 
