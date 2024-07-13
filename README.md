@@ -20,16 +20,16 @@ This project focuses on recognizing hand gestures using a webcam and performing 
 - Angle Calculation: Uses the cosine rule to calculate the angles at the defects to identify finger positions.
 
 ### Gesture Detection and Action
-- Defect Counting: Counts the number of convexity defects that have angles less than or equal to 90 degrees.
-- Action Triggering: If the number of defects is greater than or equal to 3, triggers the predefined action (e.g., pressing the 'space' key).
+- Defect Counting: Counts the number of convexity defects with angles less than or equal to 90 degrees.
+- Action Triggering: If the number of defects is greater than or equal to 3, trigger the predefined action (e.g., pressing the 'space' key).
 
 ### Display
-- **Results Display**: Shows the processed video feed with the detected gestures.
+- **Results Display: Shows the processed video feed with the detected gestures.
 
 ## Features
-- Gesture Recognition**: Recognizes specific hand gestures based on contour and defect analysis.
-- Action Execution**: Executes predefined actions based on recognized gestures.
-- Real-time Processing**: Processes video feed in real-time for immediate feedback.
+- Gesture Recognition: Recognizes specific hand gestures based on contour and defect analysis.
+- Action Execution: Executes predefined actions based on recognized gestures.
+- Real-time Processing: Processes video feed in real-time for immediate feedback.
 
 ## User Interaction
 1. Run the Script: Execute the script to capture video from the webcam.
@@ -45,7 +45,7 @@ This project provides a basic framework for gesture recognition and can be exten
 - OpenCV
 - NumPy
 - pyautogui
-- matplotlib (optional, for visualization)
+- Matplotlib (optional, for visualization)
 
 ## Installation
 1. Clone the repository:
