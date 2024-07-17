@@ -24,7 +24,7 @@ This project focuses on recognizing hand gestures using a webcam and performing 
 - Action Triggering: If the number of defects is greater than or equal to 3, trigger the predefined action (e.g., pressing the 'space' key).
 
 ### Display
-- **Results Display: Shows the processed video feed with the detected gestures.
+- Results Display: Shows the processed video feed with the detected gestures.
 
 ## Features
 - Gesture Recognition: Recognizes specific hand gestures based on contour and defect analysis.
@@ -35,7 +35,7 @@ This project focuses on recognizing hand gestures using a webcam and performing 
 1. Run the Script: Execute the script to capture video from the webcam.
 2. Perform Gesture: Place your hand inside the defined rectangle area and perform the gesture with three or more defects (e.g., extending three or more fingers).
 3. Observe Action: The script will press the 'space' key when the gesture is detected.
-4. Exit**: Press 'q' to quit the video feed and close the application.
+4. Exit: Press 'q' to quit the video feed and close the application.
 
 ## Summary
 This project provides a basic framework for gesture recognition and can be extended with more complex gesture detection and actions. It demonstrates the use of computer vision techniques for real-time hand gesture recognition and interaction with the system.
